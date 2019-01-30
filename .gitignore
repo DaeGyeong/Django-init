@@ -1,0 +1,8 @@
+# default
+venv/
+/src/
+__pycache__/
+.vscode
+# .env*
+
+# media/
